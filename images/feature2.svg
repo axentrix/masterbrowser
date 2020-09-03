@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131.044" height="232.282" viewBox="0 0 131.044 232.282">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.039"/>
+      <stop offset="0.25" stop-color="#fff" stop-opacity="0.02"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="feature2" transform="translate(0.5 0.5)">
+    <g id="Group_6756" data-name="Group 6756" transform="translate(-88.391 -54.809)">
+      <g id="Layer_127" data-name="Layer 127" transform="translate(88.391 54.809)">
+        <rect id="Rectangle_1612" data-name="Rectangle 1612" width="130.044" height="231.282" rx="25.863" fill="none" stroke="#5d99d2" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Layer_126" data-name="Layer 126" transform="translate(93.055 59.842)">
+        <rect id="Rectangle_1613" data-name="Rectangle 1613" width="120.23" height="220.839" rx="20.484" fill="#fff" stroke="#5d99d2" stroke-miterlimit="10" stroke-width="1" style="isolation: isolate"/>
+      </g>
+    </g>
+    <g id="Group_6758" data-name="Group 6758" transform="translate(-1208.702 -1147)">
+      <rect id="Rectangle_1672" data-name="Rectangle 1672" width="125.868" height="18.711" rx="3.248" transform="translate(1210.559 1183.433)" fill="#fed8c7" stroke="#ed5140" stroke-width="1"/>
+      <g id="Group_6757" data-name="Group 6757">
+        <g id="Layer_26" data-name="Layer 26" transform="translate(1316.158 1188.169)">
+          <rect id="Rectangle_1667" data-name="Rectangle 1667" width="13.788" height="8.392" rx="4.196" fill="#68a2d7" stroke="#2b6db5" stroke-miterlimit="10" stroke-width="1" opacity="0.63" style="isolation: isolate"/>
+        </g>
+        <g id="Layer_25" data-name="Layer 25" transform="translate(1216.858 1188.169)">
+          <rect id="Rectangle_1668" data-name="Rectangle 1668" width="13.788" height="8.392" rx="4.196" transform="translate(0)" fill="#68a2d7" stroke="#2b6db5" stroke-miterlimit="10" stroke-width="1" opacity="0.63" style="isolation: isolate"/>
+        </g>
+        <g id="Layer_24" data-name="Layer 24" transform="translate(1289.14 1188.169)">
+          <rect id="Rectangle_1669" data-name="Rectangle 1669" width="23.696" height="8.392" rx="4.196" fill="#68a2d7" stroke="#2b6db5" stroke-miterlimit="10" stroke-width="1" opacity="0.63" style="isolation: isolate"/>
+        </g>
+        <g id="Layer_23" data-name="Layer 23" transform="translate(1233.678 1188.169)">
+          <rect id="Rectangle_1670" data-name="Rectangle 1670" width="34.719" height="8.392" rx="4.196" fill="#68a2d7" stroke="#2b6db5" stroke-miterlimit="10" stroke-width="1" opacity="0.63" style="isolation: isolate"/>
+        </g>
+        <g id="Layer_22" data-name="Layer 22" transform="translate(1271.688 1188.169)">
+          <rect id="Rectangle_1671" data-name="Rectangle 1671" width="13.788" height="8.392" rx="4.196" fill="#68a2d7" stroke="#2b6db5" stroke-miterlimit="10" stroke-width="1" opacity="0.63" style="isolation: isolate"/>
+        </g>
+      </g>
+    </g>
+    <g id="Layer_79" data-name="Layer 79" transform="translate(11.332 14.203)">
+      <g id="Group_6714" data-name="Group 6714">
+        <g id="Toolbar" transform="translate(0.411)">
+          <g id="Toolbar_contents" data-name="Toolbar contents">
+            <rect id="Rectangle_1614" data-name="Rectangle 1614" width="105.595" height="16.426" fill="none"/>
+            <g id="Star" transform="translate(93.419 4.078)">
+              <rect id="Bounds" width="7.04" height="7.04" fill="none"/>
+              <path id="Icon" d="M240.426,77.6l-2.107-.181-.825-1.942-.823,1.945-2.109.178,1.6,1.387-.481,2.062,1.813-1.094,1.813,1.094-.478-2.062ZM237.494,79.4l-1.1.668.294-1.258-.974-.842L237,77.856l.5-1.181.5,1.184,1.285.11-.974.845.293,1.258Z" transform="translate(-233.992 -74.647)" fill="#deedfa"/>
+            </g>
+            <path id="Path_3547" data-name="Path 3547" d="M125.246,75.767l-2.581,2.581,2.581,2.581" transform="translate(-115.892 -70.634)" fill="none" stroke="#deedfa" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_6759" data-name="Group 6759">
+          <g id="_YOUR_IMAGE_HERE_" data-name="[YOUR IMAGE HERE]" transform="translate(1.175 94.452)">
+            <rect id="Mask" width="50.571" height="39.687" fill="#deedfa"/>
+            <path id="Icon-2" data-name="Icon" d="M142.61,228.548a1.906,1.906,0,1,0,1.906,1.906,1.909,1.909,0,0,0-1.906-1.906m0,3.227a1.32,1.32,0,1,1,1.32-1.32,1.322,1.322,0,0,1-1.32,1.32m11.147-5.961H134.4a2.053,2.053,0,0,0-2.053,2.054v12.319a2.053,2.053,0,0,0,2.053,2.053h19.359a2.053,2.053,0,0,0,2.053-2.053V227.868A2.054,2.054,0,0,0,153.756,225.814Zm-19.435,15.832,4.781-6.79,3.707,4.755,5.115-7.264,6.182,9.261a1.479,1.479,0,0,1-.349.047H134.325Zm20.9-1.459a1.459,1.459,0,0,1-.583,1.163l-6.7-10.041-5.152,7.316-3.707-4.755-5.358,7.61a1.462,1.462,0,0,1-.79-1.293V227.868A1.466,1.466,0,0,1,134.4,226.4h19.359a1.466,1.466,0,0,1,1.466,1.467Z" transform="translate(-118.791 -214.183)" fill="#fff" fill-rule="evenodd"/>
+          </g>
+          <g id="Group_6711" data-name="Group 6711" transform="translate(0.572 52.26)">
+            <rect id="Rectangle_1615" data-name="Rectangle 1615" width="48.597" height="7.419" rx="3.71" fill="#deedfa"/>
+            <rect id="Rectangle_1616" data-name="Rectangle 1616" width="11.706" height="5.484" rx="2.742" transform="translate(0.709 10)" fill="#deedfa"/>
+            <rect id="Rectangle_1617" data-name="Rectangle 1617" width="96.485" height="4.193" rx="2.097" transform="translate(0.709 19.032)" fill="#deedfa"/>
+            <rect id="Rectangle_1618" data-name="Rectangle 1618" width="66.688" height="4.193" rx="2.097" transform="translate(0.709 30.645)" fill="#deedfa"/>
+            <rect id="Rectangle_1619" data-name="Rectangle 1619" width="104.289" height="4.193" rx="2.097" transform="translate(0.709 24.838)" fill="#deedfa"/>
+          </g>
+          <g id="Group_6712" data-name="Group 6712" transform="translate(1.281 150.673)">
+            <rect id="Rectangle_1620" data-name="Rectangle 1620" width="11.706" height="5.484" rx="2.742" transform="translate(0 0)" fill="#deedfa"/>
+            <rect id="Rectangle_1621" data-name="Rectangle 1621" width="96.485" height="4.193" rx="2.097" transform="translate(0 9.032)" fill="#deedfa"/>
+            <rect id="Rectangle_1622" data-name="Rectangle 1622" width="66.688" height="4.193" rx="2.097" transform="translate(0 20.645)" fill="#deedfa"/>
+            <rect id="Rectangle_1623" data-name="Rectangle 1623" width="104.289" height="4.193" rx="2.097" transform="translate(0 14.838)" fill="#deedfa"/>
+          </g>
+          <g id="Group_6713" data-name="Group 6713" transform="translate(58.151 95.582)">
+            <rect id="Rectangle_1624" data-name="Rectangle 1624" width="38.709" height="7.419" rx="3.71" fill="#deedfa"/>
+            <rect id="Rectangle_1625" data-name="Rectangle 1625" width="15.808" height="5.484" rx="2.742" transform="translate(0.32 10)" fill="#deedfa"/>
+            <rect id="Rectangle_1626" data-name="Rectangle 1626" width="43.574" height="4.193" rx="2.097" transform="translate(0.32 19.032)" fill="#deedfa"/>
+            <rect id="Rectangle_1627" data-name="Rectangle 1627" width="43.574" height="4.193" rx="2.097" transform="translate(0.66 36.451)" fill="#deedfa"/>
+            <rect id="Rectangle_1628" data-name="Rectangle 1628" width="30.117" height="4.193" rx="2.097" transform="translate(0.32 30.645)" fill="#deedfa"/>
+            <rect id="Rectangle_1629" data-name="Rectangle 1629" width="30.117" height="4.193" rx="2.097" transform="translate(0.32 43.225)" fill="#deedfa"/>
+            <rect id="Rectangle_1630" data-name="Rectangle 1630" width="47.098" height="4.193" rx="2.097" transform="translate(0.32 24.838)" fill="#deedfa"/>
+          </g>
+        </g>
+        <rect id="Rectangle_1631" data-name="Rectangle 1631" width="76.128" height="9.677" rx="4.839" transform="translate(13.959 2.874)" stroke="#deedfa" stroke-width="1.04" fill="url(#linear-gradient)"/>
+        <path id="Shape" d="M218.817,78.9a1.443,1.443,0,1,1,1.443-1.443A1.443,1.443,0,0,1,218.817,78.9Zm1.831,0h-.255l-.089-.088a2.08,2.08,0,1,0-.227.228l.089.087v.254l1.6,1.6.478-.478Z" transform="translate(-136.209 -70.549)" fill="#deedfa" fill-rule="evenodd"/>
+        <text id="http:_www.myfavoritesite.com" data-name="http://www.myfavoritesite.com" transform="translate(17.581 7.999)" fill="#deedfa" font-size="3" font-family="ProductSans-Regular, Product Sans"><tspan x="0" y="0">http://www.myfavoritesite.com</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

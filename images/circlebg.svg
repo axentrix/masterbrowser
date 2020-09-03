@@ -1,0 +1,28 @@
+<svg id="circlebg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1555" height="1619" viewBox="0 0 1555 1619">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1934" data-name="Rectangle 1934" width="1555" height="1619" transform="translate(289.741 0.084)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(-289.741 -0.084)" clip-path="url(#clip-path)">
+    <g id="Group_6845" data-name="Group 6845">
+      <g id="Group_6654" data-name="Group 6654" transform="translate(-23.602 -609.251) rotate(8)">
+        <g id="Group_6692" data-name="Group 6692" transform="matrix(0.995, 0.105, -0.105, 0.995, 129.196, -185.498)">
+          <circle id="Ellipse_96" data-name="Ellipse 96" cx="143" cy="143" r="143" transform="translate(1224.771 547.021) rotate(-9)" fill="#ebf3fb"/>
+          <circle id="Ellipse_98" data-name="Ellipse 98" cx="143" cy="143" r="143" transform="translate(1529.669 637.438) rotate(-9)" fill="#ebf3fb"/>
+          <circle id="Ellipse_97" data-name="Ellipse 97" cx="97.5" cy="97.5" r="97.5" transform="translate(1427.401 618.199) rotate(-9)" fill="#ebf3fb"/>
+          <circle id="Ellipse_99" data-name="Ellipse 99" cx="157" cy="157" r="157" transform="translate(1646.974 789.965) rotate(-9)" fill="#ebf3fb"/>
+        </g>
+      </g>
+      <g id="Group_6810" data-name="Group 6810" transform="matrix(-0.819, -0.574, 0.574, -0.819, 687.814, 1577.026)">
+        <g id="Group_6692-2" data-name="Group 6692" transform="matrix(0.995, 0.105, -0.105, 0.995, 62.489, 0)">
+          <ellipse id="Ellipse_96-2" data-name="Ellipse 96" cx="143" cy="143" rx="143" ry="143" transform="translate(0 44.74) rotate(-9)" fill="#ebf3fb"/>
+          <ellipse id="Ellipse_98-2" data-name="Ellipse 98" cx="143" cy="143" rx="143" ry="143" transform="translate(304.898 135.157) rotate(-9)" fill="#ebf3fb"/>
+          <ellipse id="Ellipse_97-2" data-name="Ellipse 97" cx="97.5" cy="97.5" rx="97.5" ry="97.5" transform="translate(202.629 115.918) rotate(-9)" fill="#ebf3fb"/>
+          <ellipse id="Ellipse_99-2" data-name="Ellipse 99" cx="157" cy="157" rx="157" ry="157" transform="translate(422.203 287.684) rotate(-9)" fill="#ebf3fb"/>
+        </g>
+      </g>
+      <path id="Path_3559" data-name="Path 3559" d="M724.5,0C1124.63,0,1449,324.37,1449,724.5S1124.63,1449,724.5,1449,0,1124.63,0,724.5,324.37,0,724.5,0Z" transform="translate(392.741 170.084)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

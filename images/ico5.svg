@@ -1,0 +1,8 @@
+<svg id="ico5" xmlns="http://www.w3.org/2000/svg" width="77.061" height="47.625" viewBox="0 0 77.061 47.625">
+  <rect id="Rectangle_22" data-name="Rectangle 22" width="30.029" height="30.029" rx="1.417" transform="matrix(0.991, 0.135, -0.135, 0.991, 4.041, 13.823)" fill="#001e3b"/>
+  <rect id="Rectangle_23" data-name="Rectangle 23" width="30.029" height="30.029" rx="1.417" transform="translate(43.254 17.87) rotate(-7.755)" fill="#0052a0"/>
+  <rect id="Rectangle_24" data-name="Rectangle 24" width="30.029" height="30.029" rx="1.417" transform="matrix(0.959, 0.284, -0.284, 0.959, 25.719, 0)" fill="#0b84c7"/>
+  <text id="A" transform="matrix(0.994, 0.111, -0.111, 0.994, 7.528, 36.074)" fill="#fff" font-size="22" font-family="ProductSans-Bold, Product Sans" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+  <text id="B" transform="translate(29.535 23.608) rotate(0.018)" fill="#fff" font-size="19" font-family="ProductSans-Bold, Product Sans" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+  <text id="C" transform="matrix(0.993, -0.119, 0.119, 0.993, 52.742, 38.679)" fill="#fff" font-size="22" font-family="ProductSans-Bold, Product Sans" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+</svg>

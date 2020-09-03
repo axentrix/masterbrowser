@@ -1,0 +1,23 @@
+<svg id="clouds3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1070" height="250" viewBox="0 0 1070 250">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1933" data-name="Rectangle 1933" width="1070" height="250" transform="translate(0 3820)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 -3820)" clip-path="url(#clip-path)">
+    <g id="Group_6844" data-name="Group 6844">
+      <g id="Group_6780" data-name="Group 6780" transform="translate(-964.369 4256.126) rotate(-30)">
+        <circle id="Ellipse_96" data-name="Ellipse 96" cx="115.639" cy="115.639" r="115.639" transform="translate(1224.771 538.461) rotate(-9)" fill="#deedfa"/>
+        <circle id="Ellipse_98" data-name="Ellipse 98" cx="115.639" cy="115.639" r="115.639" transform="translate(1471.332 611.578) rotate(-9)" fill="#deedfa"/>
+        <circle id="Ellipse_97" data-name="Ellipse 97" cx="78.845" cy="78.845" r="78.845" transform="translate(1388.631 596.02) rotate(-9)" fill="#deedfa"/>
+        <circle id="Ellipse_99" data-name="Ellipse 99" cx="126.961" cy="126.961" r="126.961" transform="translate(1566.193 734.922) rotate(-9)" fill="#deedfa"/>
+      </g>
+      <g id="Group_6790" data-name="Group 6790" transform="translate(-1526.369 4240.126) rotate(-30)">
+        <circle id="Ellipse_96-2" data-name="Ellipse 96" cx="115.639" cy="115.639" r="115.639" transform="translate(1224.771 538.461) rotate(-9)" fill="#deedfa"/>
+        <circle id="Ellipse_98-2" data-name="Ellipse 98" cx="115.639" cy="115.639" r="115.639" transform="translate(1471.332 611.578) rotate(-9)" fill="#deedfa"/>
+        <circle id="Ellipse_97-2" data-name="Ellipse 97" cx="78.845" cy="78.845" r="78.845" transform="translate(1388.631 596.02) rotate(-9)" fill="#deedfa"/>
+        <circle id="Ellipse_99-2" data-name="Ellipse 99" cx="126.961" cy="126.961" r="126.961" transform="translate(1566.193 734.922) rotate(-9)" fill="#deedfa"/>
+      </g>
+    </g>
+  </g>
+</svg>

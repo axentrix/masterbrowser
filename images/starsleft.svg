@@ -1,0 +1,12 @@
+<svg id="starsleft" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91.159" height="221.205" viewBox="0 0 91.159 221.205">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.006" stop-color="#f8ae58"/>
+      <stop offset="0.411" stop-color="#f18944"/>
+      <stop offset="1" stop-color="#e74e26"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_140" data-name="Path 140" d="M263.7,302.861l9.191,16.8,16.8,9.191-16.8,9.191-9.191,16.8-9.191-16.8-16.8-9.191,16.8-9.191Z" transform="translate(-198.532 -302.861)" fill="url(#linear-gradient)"/>
+  <path id="Path_144" data-name="Path 144" d="M294.708,355.57l5.332,9.749,9.749,5.332-9.749,5.332-5.332,9.749-5.332-9.749-9.748-5.332,9.748-5.332Z" transform="translate(-228.584 -164.526)" fill="url(#linear-gradient)"/>
+  <path id="Path_143" data-name="Path 143" d="M294.708,355.57l5.332,9.749,9.749,5.332-9.749,5.332-5.332,9.749-5.332-9.749-9.748-5.332,9.748-5.332Z" transform="translate(-279.628 -258.572)" fill="url(#linear-gradient)"/>
+</svg>
