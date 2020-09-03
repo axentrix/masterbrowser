@@ -459,6 +459,9 @@ body {
   color: #00233f;
   background: #ffffff;
 }
+h1 img {
+  height: 200px !important;
+}
 header {
   width: 100%;
   position: absolute;
@@ -1002,6 +1005,33 @@ h2 {
   }
 }
 @media (max-width: 616px) {
+  .screen {
+    position: absolute;
+    left: -70%;
+  }
+  h2 {
+    text-align: center;
+  }
+  #features {
+    flex-direction: column;
+  }
+  footer ul li {
+    text-align: center;
+  }
+  #footer-menus {
+    margin: 1em;
+    align-self: stretch;
+  }
+  #telescope {
+    left: 10%;
+  }
+  .branch {
+    width: 100%;
+    position: relative;
+    left: 0;
+    margin-left: -20px;
+    height: 200px;
+  }
   #browserinfo {
     flex-wrap: wrap;
   }
